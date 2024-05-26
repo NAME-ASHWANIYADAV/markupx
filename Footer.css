@@ -1,0 +1,26 @@
+.lets-connect1 {
+  height: 25px;
+  flex: 1;
+  position: relative;
+  font-weight: 600;
+  display: inline-block;
+}
+.footer {
+  width: 100%;
+  position: relative;
+  border-radius: var(--br-22xl);
+  background: linear-gradient(98.35deg, #fe7f42, #b32c1a);
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-7xl) var(--padding-11xl);
+  box-sizing: border-box;
+  white-space: nowrap;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: left;
+  font-size: var(--font-size-xl-7);
+  color: var(--color-white);
+  font-family: var(--font-montserrat);
+}

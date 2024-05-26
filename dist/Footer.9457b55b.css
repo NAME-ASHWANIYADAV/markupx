@@ -1,0 +1,28 @@
+.lets-connect1 {
+  flex: 1;
+  height: 25px;
+  font-weight: 600;
+  display: inline-block;
+  position: relative;
+}
+
+.footer {
+  border-radius: var(--br-22xl);
+  padding: var(--padding-7xl) var(--padding-11xl);
+  box-sizing: border-box;
+  white-space: nowrap;
+  letter-spacing: normal;
+  text-align: left;
+  line-height: normal;
+  font-size: var(--font-size-xl-7);
+  color: var(--color-white);
+  font-family: var(--font-montserrat);
+  background: linear-gradient(98.35deg, #fe7f42, #b32c1a);
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: flex-start;
+  width: 100%;
+  display: flex;
+  position: relative;
+}
+/*# sourceMappingURL=Footer.9457b55b.css.map */
